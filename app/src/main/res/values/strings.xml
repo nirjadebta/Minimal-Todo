@@ -25,7 +25,7 @@
         <item>30 Minutes</item>
         <item>1 Hour</item>
     </string-array>
-
+    <string name="temp2">Temp2 </string>
     <string name="snooze">Snooze</string>
     <string name="remove">Remove</string>
     <string name="todo_error">Please enter a Todo</string>
